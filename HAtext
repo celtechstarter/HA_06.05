@@ -4,7 +4,7 @@
 function add(a, b) {
   return a + b;
 }
-
+//adsd
 // Verwende eine Arrow Function in Kombination mit der Array-Methode .filter(),
 // um ein Array von Zahlen zu filtern und nur diejenigen Zahlen zurückzugeben, die größer als 10 sind.
 
